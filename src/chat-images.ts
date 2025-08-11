@@ -14,8 +14,6 @@ const registerSettings = () => {
 }
 
 Hooks.once('init', async () => {
-  CONFIG.debug.hooks = true
-
   registerSettings()
   registerHooks()
 
