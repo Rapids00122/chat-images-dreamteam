@@ -3,12 +3,13 @@
   "name": "chat-images",
   "title": "Chat Images",
   "description": "Extends chat functionality with image support.",
-  "version": "3.3",
-  "author": "bmarian",
+  "version": "3.4",
+  "type": "module",
+  "author": "Rapids00122",
   "authors": [
     {
-      "name": "bmarian",
-      "url": "https://github.com/bmarian"
+      "name": "Rapids00122",
+      "url": "https://github.com/Rapids00122"
     }
   ],
   "esmodules": [
@@ -18,7 +19,7 @@
     "chat-images.css"
   ],
   "compatibility": {
-    "minimum": "10",
+    "minimum": "13",
     "verified": "13"
   },
   "languages": [
@@ -28,8 +29,8 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/bmarian/chat-images",
-  "manifest": "https://github.com/bmarian/chat-images/releases/latest/download/module.json",
-  "download": "https://github.com/bmarian/chat-images/releases/download/3.3/module.zip",
-  "changelog": "https://github.com/bmarian/chat-images/releases"
+  "url": "https://github.com/Rapids00122/chat-images",
+  "manifest": "https://github.com/Rapids00122/chat-images/releases/latest/download/module.json",
+  "download": "https://github.com/Rapids00122/chat-images/releases/download/3.4/module.zip",
+  "changelog": "https://github.com/Rapids00122/chat-images/releases"
 }
